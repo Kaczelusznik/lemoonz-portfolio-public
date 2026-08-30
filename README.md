@@ -32,6 +32,8 @@ It covers areas such as:
 
 The documentation intentionally excludes private biographical information and non-public material related to the artist.
 
+[View the full technical documentation (PDF)](./LeMoonz_portfolio_documentation.pdf)
+
 ## My role
 
 I am responsible for the technical development of the website, including:
